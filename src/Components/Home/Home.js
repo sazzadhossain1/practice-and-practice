@@ -14,6 +14,11 @@ const Home = () => {
           <a href="#slide4" className="btn btn-circle">
             ❮
           </a>
+          <div className="title-style">
+            <h1 className="text-3xl m-5 font-bold">Lightest Gets Lighter</h1>
+            <h1 className="text-6xl m-5">ALL-NEW ONZO PEO</h1>
+            <button className="m-5 button-style">Learn More</button>
+          </div>
           <a href="#slide2" className="btn btn-circle">
             ❯
           </a>

@@ -1,3 +1,19 @@
 .h {
   height: 800px;
 }
+.title-style {
+  margin-right: 1000px;
+}
+.button-style {
+  background-color: red;
+  width: 200px;
+  height: 50px;
+  border-radius: 35px;
+  color: white;
+  font-size: large;
+}
+
+.button-style:hover {
+  border: 2px solid red;
+  background-color: rgba(0, 0, 0, 0.336);
+}
